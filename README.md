@@ -1,6 +1,6 @@
 # Java-Chess-README
 
-In my grade 12 computer science class a friend and I created a chess game using Java's built-in GUI called "Java Swing", just thought I would upload it to GitHub if anyone would like to check it out!
+For my grade 12 computer science final, a friend and I created a chess game using Java's built-in GUI called "Java Swing", just thought I would upload it to GitHub if anyone would like to check it out!
 
 The multiplayer version of our chess game is currently fully functional with unique piece movements, like pawn promotions, castling, and en passant. Furthermore, the game also has built-in check/checkmate detection and can even tell if a certain position is considered to be a stalemate.
 
