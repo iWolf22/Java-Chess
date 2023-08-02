@@ -4,9 +4,13 @@ For my grade 12 computer science final, a friend and I created a chess game usin
 
 The multiplayer version of our chess game is currently fully functional with unique piece movements, like pawn promotions, castling, and en passant. Furthermore, the game also has built-in check/checkmate detection and can even tell if a certain position is considered to be a stalemate.
 
-All of the core java files that are used for this program are location in [Java-Chess/Java Chess Final/src/com/company/]
+All of the core Java files that are used for this program are located in [Java-Chess/Java Chess Final/src/com/company/]
 
 If you find any bugs within the code, which allow you to break any of the rules of chess, please let us know and we will fix them asap :)
+
+![Screenshot of Java Chess](https://drive.google.com/uc?id=1GxFbVt1na1pXjAHeT4CBHJCmUpuhkpf5)
+
+^ Above is a screenshot of Java Chess ^
 
 ---
 
