@@ -8,9 +8,17 @@ All of the core Java files that are used for this program are located in [Java-C
 
 If you find any bugs within the code, which allow you to break any of the rules of chess, please let us know and we will fix them asap :)
 
-![Screenshot of Java Chess](https://drive.google.com/uc?id=1GxFbVt1na1pXjAHeT4CBHJCmUpuhkpf5)
+![Screenshot of Java Chess](https://drive.google.com/uc?id=1tc8KlBkM8BgLb-1lkn4xgYW371PRCdmc)
 
-^ Above is a screenshot of Java Chess ^
+^ Above is a screenshot of the gameplay in Java Chess ^
+
+![Picture of the main menu](https://drive.google.com/uc?id=17vD8gt29cB049kwvQ76FVTy0cuyehcqj)
+
+^ Above is a screenshot of the main menu ^
+
+![Picture of instructions UI](https://drive.google.com/uc?id=1CsPAhQoZm94JHHQccbEAxTqsQ-CexPIq)
+
+^ Above is a sample of the instructions UI ^
 
 ---
 
